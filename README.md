@@ -1,8 +1,8 @@
-# Projeto Spring Boot - Turma 11 Zero ao Fullstack
+# Projeto Spring Boot - Turma 11 - Zero ao Fullstack
 
 ## 📖 Sobre o Projeto
 
-Este é um **projeto introductório de Spring Boot** desenvolvido para a **Turma 11 do programa Zero ao Fullstack** da **Treina Recife**. O projeto foi criado como uma ponte entre o módulo de **Programação Orientada a Objetos (POO)** e o vasto universo do desenvolvimento web com Spring Boot.
+Este é um **projeto introdutório de Spring Boot** desenvolvido para a **Turma 11 do programa Zero ao Fullstack** da **Treina Recife**. O projeto foi criado como uma ponte entre o módulo de **Programação Orientada a Objetos (POO)** e o vasto universo do desenvolvimento web com Spring Boot.
 
 O objetivo é demonstrar os conceitos fundamentais do Spring Boot, como:
 - **Arquitetura MVC** (Model-View-Controller)
